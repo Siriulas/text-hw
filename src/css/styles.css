@@ -22,3 +22,9 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+.link-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 80px auto;
+}
